@@ -56,20 +56,22 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [golang](https://go.dev/doc/install) installed on your computer. 
+
+## From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990
+$ git clone https://github.com/reski-id/RestApiEchoGolangLoundry
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd 
 
 # Install dependencies
-$ npm install
+$ go get
 
 # Run the app
-$ npm start
+$ go run main.go
 ```
 
 > **Note**
@@ -78,7 +80,7 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [GO](https://go.dev/doc/install) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## Emailware
 
