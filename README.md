@@ -36,27 +36,14 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Pelanggan 
+  - pelanggan bisa .....
+* Loundry
+  - cara kerja...
 
 ## How To Use
 
-To clone and run this application, you'll need [golang](https://go.dev/doc/install) installed on your computer. 
+To run this application, you'll need [golang](https://go.dev/doc/install) installed on your computer. 
 
 ## From your command line:
 
@@ -75,23 +62,23 @@ $ go run main.go
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+
+
+## To Run this App you must install Golang
+
+You can Download [GOLANG](https://go.dev/doc/install) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 
 ## Download
 
-You can [GO](https://go.dev/doc/install) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can Find literatur and Software here:
 
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Echo](http://electron.atom.io/)
-- [Trello](https://nodejs.org/)
-- [Trunk Base Development](https://github.com/chjj/marked)
-- [Golang](http://showdownjs.github.io/showdown/)
-- [RestAPI](http://codemirror.net/)
+- [Echo](https://echo.labstack.com/guide/)
+- [Trello](https://trello.com/)
+- [Trunk Base Development](https://trunkbaseddevelopment.com/)
+- [Golang](https://go.dev/)
+- [RestAPI](https://restfulapi.net/)
+- [Insomnia](https://insomnia.rest/download)
+- [Postman](https://www.postman.com/downloads/)
+- [VScode](https://code.visualstudio.com/Download)
