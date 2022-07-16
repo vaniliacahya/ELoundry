@@ -5,8 +5,10 @@ import (
 )
 
 type Servis struct {
-	ID          int    `json:"id" form:"id" gorm:"prmaryKey;autoIncrement"`
-	ServiceName string `json:"nama" form:"nama"`
+	gorm.Model
+	IDservice  int     `json:"id" form:"id" gorm:"primaryKey;"`
+	Qantity    float64 `json:"berat" form:"berat"`
+	IDKategory int
 }
 
 type ServisModel struct {

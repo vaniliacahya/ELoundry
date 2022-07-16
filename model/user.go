@@ -5,6 +5,7 @@ import (
 )
 
 type User struct {
+	gorm.Model
 	ID         int    `json:"id" form:"id" gorm:"prmaryKey;autoIncrement"`
 	Nama       string `json:"nama" form:"nama"`
 	Email      string `json:"email" form:"email"`

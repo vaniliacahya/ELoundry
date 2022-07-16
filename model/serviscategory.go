@@ -5,8 +5,10 @@ import (
 )
 
 type ServisCategory struct {
-	ID           int    `json:"id" form:"id" gorm:"prmaryKey;autoIncrement"`
+	gorm.Model
+	IDKategory   int    `json:"id" form:"id" gorm:"primaryKey;"`
 	CategoryName string `json:"nama" form:"nama"`
+	PricePerKilo string `json:"price" form:"price"` //Biaya Loundry/kilo
 }
 
 type ServisCatModel struct {

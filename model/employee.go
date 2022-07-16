@@ -5,9 +5,10 @@ import (
 )
 
 type Employee struct {
-	ID             int    `json:"id" form:"id" gorm:"prmaryKey;autoIncrement"`
-	EmployeeName   string `json:"nama" form:"nama"`
-	EmployeeAddres string `json:"addres" form:"addres"`
+	gorm.Model
+	ID              string `json:"id" form:"id" gorm:"prmaryKey;"`
+	EmployeeName    string `json:"nama" form:"nama"`
+	EmployeeAddress string `json:"address" form:"address"`
 }
 
 type EmployeeModel struct {
