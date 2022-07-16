@@ -20,7 +20,7 @@
   - Register
   - Login
   - Melihat Layanan Loundry
-  - Pesan Layanan Loundri
+  - Pesan Layanan Loundry
   - Bayar
   - Lihat Status Loundry {Proses/Finish/Diantarkan}
 * Karyawan
