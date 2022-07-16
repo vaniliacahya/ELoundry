@@ -17,9 +17,16 @@
 ## Key Features
 
 * Pelanggan 
-  - pelanggan bisa .....
-* Loundry
-  - cara kerja...
+  - Register
+  - Login
+  - Melihat Layanan Loundry
+  - Pesan Layanan Loundri
+  - Bayar
+  - Lihat Status Loundry {Proses/Finish/Diantarkan}
+* Karyawan
+  - Login
+  - Lihat Transaksi
+  - Proses Loundry
 
 ## How To Use
 
