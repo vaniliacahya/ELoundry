@@ -57,6 +57,7 @@ You can Find literatur and Software here:
 - [Echo](https://echo.labstack.com/guide/)
 - [JWT](https://github.com/golang-jwt/jwt)
 - [Trello](https://trello.com/)
+- [Jira](https://www.atlassian.com/software/jira/guides)
 - [Trunk Base Development](https://trunkbaseddevelopment.com/)
 - [Golang](https://go.dev/)
 - [RestAPI](https://restfulapi.net/)
