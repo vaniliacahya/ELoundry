@@ -1,19 +1,15 @@
 
 <h1 align="center">
   <br>
-  <a href="http://link"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://link"><img src="https://www.restapiexample.com/wp-content/uploads/2017/11/golang-mvc-echo-MySQL.png" alt="Echo Golang" width="200"></a>
   <br>
-  Markdownify
+  Echo Golang
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Echo <a href="" target="_blank">Golang</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/gh/reski-id%2FRestApiEchoGolangLoundry.svg"
-         alt="Gitter">
-  </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
