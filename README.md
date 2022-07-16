@@ -55,6 +55,7 @@ You can Download [GOLANG](https://go.dev/doc/install) the latest installable ver
 You can Find literatur and Software here:
 
 - [Echo](https://echo.labstack.com/guide/)
+- [JWT](https://github.com/golang-jwt/jwt)
 - [Trello](https://trello.com/)
 - [Trunk Base Development](https://trunkbaseddevelopment.com/)
 - [Golang](https://go.dev/)
