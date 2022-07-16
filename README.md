@@ -11,9 +11,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#link-download">Download</a> •
 </p>
 
 ## Key Features
@@ -52,7 +50,7 @@ $ go run main.go
 You can Download [GOLANG](https://go.dev/doc/install) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 
-## Download
+## Link Download
 
 You can Find literatur and Software here:
 
