@@ -63,6 +63,7 @@ You can Find literatur and Software here:
 - [Clean Architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 - [JWT](https://github.com/golang-jwt/jwt)
 - [Unit Testing](https://golangdocs.com/golang-unit-testing)
+- [Mockery](https://github.com/vektra/mockery)
 - [Trello](https://trello.com/)
 - [Jira](https://www.atlassian.com/software/jira/guides)
 - [Trunk Base Development](https://trunkbaseddevelopment.com/)
