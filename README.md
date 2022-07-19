@@ -62,7 +62,9 @@ You can Download [GOLANG](https://go.dev/doc/install) the latest installable ver
 You can Find literatur and Software here:
 
 - [Echo](https://echo.labstack.com/guide/)
+- [Clean Architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 - [JWT](https://github.com/golang-jwt/jwt)
+- [Unit Testing](https://golangdocs.com/golang-unit-testing)
 - [Trello](https://trello.com/)
 - [Jira](https://www.atlassian.com/software/jira/guides)
 - [Trunk Base Development](https://trunkbaseddevelopment.com/)
