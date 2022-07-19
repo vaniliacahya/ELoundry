@@ -1,8 +1,6 @@
 
 <h1 align="center">
   <br>
-  <a href="https://echo.labstack.com/"><img src="https://www.restapiexample.com/wp-content/uploads/2017/11/golang-mvc-echo-MySQL.png" alt="Echo Golang" width="200"></a>
-  <br>
   Echo Golang
   <br>
 </h1>
