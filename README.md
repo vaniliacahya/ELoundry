@@ -46,9 +46,6 @@ $ go get
 $ go run main.go
 ```
 
-> **Note**
-
-
 
 ## To Run this App you must install Golang
 
