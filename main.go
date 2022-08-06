@@ -20,7 +20,7 @@ func main() {
 		Format: "method=${method}, uri=${uri}, status=${status}\n",
 	}))
 
-	fmt.Println("Menjalankan program ....")
+	fmt.Println("E-loundry Running on....")
 	e.Logger.Fatal(e.Start(":8000"))
 
 }
