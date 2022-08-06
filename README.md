@@ -69,3 +69,7 @@ You can Find literatur and Software here:
 - [Insomnia](https://insomnia.rest/download)
 - [Postman](https://www.postman.com/downloads/)
 - [VScode](https://code.visualstudio.com/Download)
+
+Contributor
+- Ahmad Reski
+- Vanilia Cahya Nugroho
