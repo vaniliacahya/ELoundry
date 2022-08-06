@@ -2,6 +2,7 @@ package mysql
 
 import (
 	"RESTAPILoundry/config"
+	userData "RESTAPILoundry/feature/user/data"
 	"fmt"
 	"log"
 
@@ -20,5 +21,5 @@ func InitDB(cfg *config.AppConfig) *gorm.DB {
 }
 
 func MigrateData(db *gorm.DB) {
-	db.AutoMigrate(userData.User{}, productData.Product{}, orderData.Order{}, cartData.Cart{})
+	db.AutoMigrate(userData.User{})
 }
