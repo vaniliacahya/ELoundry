@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/appklp5:latest 
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/loundry-api:latest 
