@@ -1,11 +1,7 @@
 package mysql
 
 import (
-	"commerce-app/config"
-	cartData "commerce-app/feature/cart/data"
-	orderData "commerce-app/feature/order/data"
-	productData "commerce-app/feature/product/data"
-	userData "commerce-app/feature/user/data"
+	"RESTAPILoundry/config"
 	"fmt"
 	"log"
 
