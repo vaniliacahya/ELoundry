@@ -1,26 +1,23 @@
 package main
 
 import (
-	"RESTAPILoundry/database/mysql"
+	"RESTAPILoundry/config"
+	"RESTAPILoundry/factory"
+	"RESTAPILoundry/infrastruktur/database/mysql"
 	"fmt"
 
 	"github.com/labstack/echo/v4"
-	"github.com/labstack/echo/v4/middleware"
 )
 
 func main() {
-	db := mysql.InitDB()
+	cfg := config.GetConfig()
+	db := mysql.InitDB(cfg)
 	mysql.MigrateData(db)
 	e := echo.New()
-	e.Pre(middleware.RemoveTrailingSlash())
 
-	e.Use(middleware.CORS())   //WAJIB!!
-	e.Use(middleware.Logger()) //WAJIB!!
-	e.Use(middleware.LoggerWithConfig(middleware.LoggerConfig{
-		Format: "method=${method}, uri=${uri}, status=${status}\n",
-	}))
+	factory.Initfactory(e, db)
 
-	fmt.Println("E-loundry Running on....")
-	e.Logger.Fatal(e.Start(":8000"))
-
+	fmt.Println("Running program ....")
+	dsn := fmt.Sprintf(":%d", config.SERVERPORT)
+	e.Logger.Fatal(e.Start(dsn))
 }
